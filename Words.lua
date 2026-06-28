@@ -17,8 +17,8 @@ gingerbreads
 sphenopalatineganglioneuralgia
 pneumonoultramicroscopicsilicovolcanoconiosis
 supercalifragilisticexpialidocious
-counter-countermeasure
-counter-countermeasures
+counter-counter-measure
+counter-counter-measures
 counterrevolutionaries
 knock-down-and-drag-out
 ovoviviparous
@@ -480,7 +480,7 @@ estrogenic
 estrogenically
 estrogenize
 estrogenized
-estrogenization
+estrogenization(DOSENTWORKDONOTTRY)
 nice
 nicer
 nicest
@@ -492,9 +492,8 @@ quarantines
 quarantining
 quarantined
 quarantinable
-hippopotomonstrosesquippedaliophobia
+hippopotomonstrosesquipedaliophobia
 dichlorodiphenyltrichloroethane
-dichlorodiphenyltrichloroethanes
 skill
 skills
 skilled
