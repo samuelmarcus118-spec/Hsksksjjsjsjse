@@ -149,8 +149,6 @@ electroencephalograph
 electroencephalographs
 electroencephalographic
 electroencephalographically
-electroencephalographist
-electroencephalographists
 elevator
 elevators
 elevate
@@ -480,7 +478,6 @@ estrogenic
 estrogenically
 estrogenize
 estrogenized
-estrogenization(DOSENTWORKDONOTTRY)
 nice
 nicer
 nicest
