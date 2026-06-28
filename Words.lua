@@ -489,7 +489,6 @@ quarantines
 quarantining
 quarantined
 quarantinable
-hippopotomonstrosesquipedaliophobia
 dichlorodiphenyltrichloroethane
 skill
 skills
@@ -525,3 +524,13 @@ did
 done
 doer
 doers
+uvulopalatopharyngoplasties
+uvulopalatopharyngoplasty
+ethylenediaminetetraacetates
+ethylenediaminetetraacetate
+whippoorwill's-boots
+whippoorwill's-shoes
+usquebaughs
+usquebaugh
+antiferromagnetically
+co-occurrences
