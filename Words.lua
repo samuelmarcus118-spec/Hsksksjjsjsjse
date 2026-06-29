@@ -1079,8 +1079,6 @@ lens
 lenses
 lune
 lunes
-reuleaux triangle
-reuleaux triangles
 deltoid
 deltoids
 cardioid
@@ -1143,10 +1141,6 @@ enablement
 enabledness
 cube
 cuboid
-rectangular prism
-triangular prism
-pentagonal prism
-hexagonal prism
 cylinder
 cone
 sphere
@@ -1154,14 +1148,98 @@ hemisphere
 ellipsoid
 torus
 pyramid
-square pyramid
-triangular pyramid
 tetrahedron
-pentagonal pyramid
-hexagonal pyramid
 frustum
 octahedron
 dodecahedron
 icosahedron
-triangular bipyramid
-hexagonal bipyramid
+sly
+slier
+sliest
+slyly
+slyness
+slynesses
+ash
+ashes
+ashy
+ashen
+ashiness
+ashinesses
+ashfall
+ashfalls
+ashwood
+ashwoods
+rich
+richer
+richest
+richly
+richness
+richnesses
+enrich
+enriches
+enriching
+enriched
+enrichment
+enrichments
+poor
+poorer
+poorest
+poorly
+poorness
+poornesses
+wealth
+wealths
+wealthy
+wealthier
+wealthiest
+wealthily
+wealthiness
+wealthinesses
+tranquil
+tranquilly
+tranquility
+tranquilities
+tranquilize
+tranquilizes
+tranquilizing
+tranquilized
+tranquilizer
+tranquilizers
+untranquil
+sap
+saps
+sapping
+sapped
+sapper
+sappers
+sapless
+sappy
+sappier
+sappiest
+sappiness
+saplessnesses
+saplessness
+sapless
+dead
+deader
+deadest
+deadly
+deadliness
+deadlinesses
+deadness
+deadnesses
+deaden
+deadens
+deadening
+deadened
+death
+deaths
+entertainment
+entertainments
+entertain
+entertains
+entertaining
+entertained
+entertainer
+entertainers
+entertainingly
