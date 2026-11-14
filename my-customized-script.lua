@@ -7,6 +7,8 @@ local cloneref = cloneref or function(o) return o end
 local gethui = gethui or function() return CoreGui end
 
 local CoreGui = cloneref(game:GetService("CoreGui"))
+local Players = cloneref(game:GetService("Players"))
+
 local VirtualInputManager = cloneref(game:GetService("VirtualInputManager"))
 local UserInputService = cloneref(game:GetService("UserInputService"))
 local RunService = cloneref(game:GetService("RunService"))
